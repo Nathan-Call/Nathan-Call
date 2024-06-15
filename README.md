@@ -1,5 +1,5 @@
-I am a software developer versed in Python data collection, Python automation, Linux server administration, Linux cybersecurity, web application development, Firebase services, HTML, CSS, JavaScript, and MySQL.
+Passionate Software Engineer well versed in technical fields such as Full Stack Web Application Development, Linux Administration, Backend Development, Frontend Development, Cloud Infrastructure, Automation, and Cybersecurity. 
 
-I have had the blessed opportunity to work on multiple professional web/software development projects while still studying computer science at North Central University. Ever since I learned basic Java programming in my freshman year of college I was captivated with a passion for software development, problem-solving, and IT systems.
+Always hungry to learn new technical skills, I thrived in college, thrived at working in multiple software positions during college, thrived at communicating technical concepts to non-technical colleagues, and thrived at managing all of the technical operations required for a data-driven, software-based startup company in Minneapolis, MN.
 
-Check out my website at https://nathancall.tech
+Check out my website at: https://nathancall.tech
